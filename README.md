@@ -1,2 +1,2 @@
-# CellFreeMaMIMOMatsudaLab
-学生と共有用のCellFreeMassiveMIMOシミュレーション
+# CellFreeMassiveMIMOMLab
+CellFreeMassiveMIMOシミュレーション
